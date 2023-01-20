@@ -8,6 +8,7 @@ A **very** simple SwiftUI layer manager iOS 15+ that centralizes page presentati
 <img src="Assets/layerman-greenyellow.gif" width="30%">
 <img src="Assets/layerman-toast.gif" width="30%">
 </p>
+<br />
 
 ### Usage
 
