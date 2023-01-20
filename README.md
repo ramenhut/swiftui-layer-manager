@@ -33,6 +33,6 @@ Check out [ContentView.swift](Example/ContentView.swift) for a working example, 
             // 3. Hook up the Layer Manager, which will swallow our
             //    ContentView and add our Layer Manager to the environment.
             .withLayerManager(layerManager:layerManager)
+        }
     }
-}
 
